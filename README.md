@@ -1,10 +1,13 @@
 # About LOG309: Industry 4.0 Logistics Applications
 
 This course was developed by the author on behalf of the Singapore University of
-Social Sciences (hereon "SUSS) as a mental model to seize opportunities arising
+Social Sciences (hereon "SUSS") as a mental model to seize opportunities arising
 from 4.0 and beyond.
 
-For details, see [here](https://www.suss.edu.sg/courses/detail/log309).
+For course details, see [here](https://www.suss.edu.sg/courses/detail/log309).
+
+Textbook: Nil. Content is from the author and multiple public sources the
+references of which are in the Study Guides.
 
 ## For instructors
 
